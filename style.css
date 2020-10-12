@@ -1,0 +1,24 @@
+body{
+	background-color: Lightblue;
+}
+h1{
+	color: black;
+	font-weight: bold;
+}
+h2{
+	color: Navy;
+}
+img{
+   	width: 220px;
+   	height: 200px;
+   }
+thead{
+   	text-align: center;
+   	background-color: SteelBlue;
+}
+table{
+	border: 1;
+	width: 76;
+    margin: auto;
+}
+
